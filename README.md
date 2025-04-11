@@ -23,4 +23,13 @@ Comparison of state-of-the-art methods on the MRE (mm). Landmarks at the beginni
 ![Results](./figs/results.png)
 
 ## Citation
-TODO
+```
+@article{gong2025fetal,
+  author={Gong, Haifan and Liu, Huixian and Wang, Yitao and Liu, Xiaoling and Wan, Xiang and Shi, Qiao and Li, Haofeng},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Fetal Cerebellum Landmark Detection Based on 3D MRI: Method and Benchmark}, 
+  year={2025},
+  pages={1-10},
+  doi={10.1109/JBHI.2025.3559702}
+}
+```
