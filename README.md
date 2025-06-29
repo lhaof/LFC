@@ -9,8 +9,8 @@ Pre-trained Weights are available at the following link:
 <[Baidu Drive](https://pan.baidu.com/s/1vd1X_FZwPBWcT9uOwdSTqg?pwd=rztx)> with extract code **rztx**.
 
 ## Datasets
-The training and evaluation dataset will be made available after acceptance.
-
+Data is available at [Google Drive Folder](https://drive.google.com/drive/folders/1PVOi5dX4SSjbZ4TqjRPZhfewj7fgFY9p?usp=drive_link)
+ 
 ## Requirements
 python >= 3.12
 pytorch >= 2.0
