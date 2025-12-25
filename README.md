@@ -10,7 +10,8 @@ Pre-trained Weights are available at the following link:
 
 ## Datasets
 Data is available at [Google Drive Folder](https://drive.google.com/drive/folders/1PVOi5dX4SSjbZ4TqjRPZhfewj7fgFY9p?usp=drive_link)
- 
+The gestational age for each case is available at gestational_age_samples.csv
+
 ## Requirements
 python >= 3.12
 pytorch >= 2.0
