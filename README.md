@@ -9,7 +9,7 @@ Pre-trained Weights are available at the following link:
 <[Baidu Drive](https://pan.baidu.com/s/1vd1X_FZwPBWcT9uOwdSTqg?pwd=rztx)> with extract code **rztx**.
 
 ## Datasets
-Data is available at [Google Drive Folder](https://drive.google.com/drive/folders/1PVOi5dX4SSjbZ4TqjRPZhfewj7fgFY9p?usp=drive_link)
+Data is available at [Huggingface](https://huggingface.co/datasets/haifan-gong/LFC) and [Google Drive Folder](https://drive.google.com/drive/folders/1PVOi5dX4SSjbZ4TqjRPZhfewj7fgFY9p?usp=drive_link)
 The gestational age for each case is available at gestational_age_samples.csv
 
 ## Requirements
